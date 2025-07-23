@@ -1,0 +1,8 @@
+name: AuthPlugin
+main: com.j3ly.authplugin.AuthPlugin
+version: 1.0
+commands:
+  register:
+    description: Register a new account
+  login:
+    description: Login to your account
