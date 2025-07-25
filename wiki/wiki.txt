@@ -1,0 +1,4 @@
+BetaAuth is a Minecraft Beta 1.7.3 plugin for craftbukkit tested on Bukkit-0.0.0-980-g4ed23b1-b1060jnks
+
+When a new player joins they will be prompted to run /register <password>
+after loging in with /login <password> the player can rejoin without loging in as long as they are on the same ip adress (ip cache time can be configed default 12hrs)
